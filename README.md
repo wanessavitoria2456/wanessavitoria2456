@@ -8,7 +8,7 @@ Estou me desenvolvendo na linguagem JavaScript
 
 Utilizo esse espaço para minha organização e compartilhamentos dos meus projetos desenvolvidos
 
-Você pode entrar em contato comigo 📱
+**Você pode entrar em contato comigo 📱**
 
 vitoriawanessa577@gmail.com
 
